@@ -1,0 +1,32 @@
+	.col-md-2{
+	background-color: yellow;
+	border: 0.2em solid #ccc;
+}
+.col-md-12{
+	text-align: center;
+	background-color: red;
+	border:0.2em solid #ccc;
+}
+
+.labelrow{
+	background-color: grey;
+}
+
+.parameter{
+	background-color: white;
+}
+.comment{
+	background-color: white;
+}
+
+.row-same-height {
+	border-collapse: collapse;
+	border: ;ile
+		display: table;
+
+}
+.col-md-height {
+    display: table-cell;
+    float: none !important;
+		border: ;
+}
